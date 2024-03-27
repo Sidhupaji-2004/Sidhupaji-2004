@@ -1,5 +1,6 @@
 
-# 💫 About Me:
+# 💫 Hi There 🙋🏻‍♂️:
+🎓I'm currently a 2nd year undergraduate student in the Department of CST at IIEST, Shibpur.
 🔭I'm currently working on Deep Learning.<br>🧑‍🤝‍🧑I'm looking to collaborate on Machine Learning, Deep Learning and Web Development Projects. <br>🙋🏻‍♂️Ask me about Neural Networks and Frontend Development.<br>⚡Fun fact - I spend more time debugging my buggy code rather than writing code.So, grab your magnifying glass (or just hit F12) and let's solve some tech mysteries together! 🕵️‍♂️💻<br>🌱I'm currently learning React.js and Deep Learning. 
 
 
